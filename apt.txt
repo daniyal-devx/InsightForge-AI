@@ -1,0 +1,2 @@
+# System dependencies for PDF processing
+poppler-utils
